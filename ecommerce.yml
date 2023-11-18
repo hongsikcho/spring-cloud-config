@@ -1,6 +1,6 @@
 token:
-  expiration_time: 864
-  secret: my_token_changed
+  expiration_time: 864000000
+  secret: user_token
 
 gateway:
   ip: 192.168.35.195
